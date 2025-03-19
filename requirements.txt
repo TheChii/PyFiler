@@ -1,0 +1,12 @@
+blessed>=1.20.0
+
+# Cross-platform terminal library
+
+# For file and directory operations
+pathlib2>=2.3.7
+
+# For enhanced terminal UI features
+pyfiglet>=0.8.post1
+
+# For search functionality
+fnmatch>=1.0.0
